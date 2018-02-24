@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin RecyclerView</string>
+    <string name="name">Eliud Njugush</string>
+    <string name="address">Manama, Bahrain</string>
+</resources>
